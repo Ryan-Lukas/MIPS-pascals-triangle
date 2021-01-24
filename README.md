@@ -13,6 +13,7 @@ Background
 We used MARS MIPS simulator and created the output of Pascal's triangle.
 
 Output 
+------------
 ```
 1
 1     1
