@@ -10,7 +10,7 @@ CS 3810 - Computer Organization - Fall 2018
 Background
 ------------
 
-We used MARS MIPS simulator and created the output of Pascal's triangle.
+I used MARS MIPS simulator to develop the assembly language to create the output of Pascal's triangle.
 
 Output 
 ------------
